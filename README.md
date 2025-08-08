@@ -28,23 +28,6 @@ flowchart TD
     A3 -- "Requests bulk conversions" --> A1
 ```
 
-## Chapters
-
-1. [Interactive Map Interface
-](01_interactive_map_interface_.md)
-2. [Coordinate Conversion UI
-](02_coordinate_conversion_ui_.md)
-3. [DigiPin API Endpoints
-](03_digipin_api_endpoints_.md)
-4. [DigiPin Core Algorithm
-](04_digipin_core_algorithm_.md)
-5. [Geocoding Service Integration
-](05_geocoding_service_integration_.md)
-6. [Batch Processing System
-](06_batch_processing_system_.md)
-
----
-
 # Chapter 1: Interactive Map Interface
 
 Have you ever looked at a map and wished you could just point to a spot and instantly get its exact location details, or see where a special code refers to? That's exactly what the "Interactive Map Interface" in DigiPin helps you do!
